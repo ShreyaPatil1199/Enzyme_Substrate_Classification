@@ -1,6 +1,22 @@
 # Enzyme-Substrate Classification Project
+
+![image](https://github.com/ShreyaPatil1199/Enzyme_Substrate_Classification/assets/135635788/17d7048c-7804-489d-bcd3-9ea43a2a3158)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/{Shreya_Patil}/{Enzyme_Substrate_Classification})
+
 ![Python](https://img.shields.io/badge/Python-3-blue.svg) 
+
+## Table of Contents 
+
+- [Overview](#Overview)
+
+- [Objective](#Objective)
+
+- [Dataset](#Dataset)
+
+- [Citations](#Citations)
+
+
 
 ## Overview
 
@@ -30,7 +46,7 @@ The project is organized as follows:
 - `data/`: This directory contains the dataset files (train and test).
 - `notebooks/`: Jupyter notebooks for data preprocessing, model training, and evaluation ( ipynb and PDF )
 
-## CITATIONS
+## Citations
 
 1. Bastard, K. et al. Revealing the hidden functional diversity of an enzyme family. Nature Chemical Biology 10, 42–49 (2014).
 
